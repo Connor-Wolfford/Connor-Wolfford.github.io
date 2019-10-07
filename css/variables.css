@@ -1,0 +1,11 @@
+:root {
+    --lightblue: #99ffff;
+    --black: #000000;
+    --white: #ffffff;
+    --orange: #ffa500;
+
+    --font-one: 'Big Shoulders Display', sans-serif;
+    --font-two: 'Noto Sans', sans-serif;
+}
+
+/* This is where you create color variables */
