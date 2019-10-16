@@ -1,0 +1,46 @@
+.projectFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.projectText {
+    color: var(--lightblue);
+    text-align: center;
+}
+
+#staticLayout {
+    background-image: url(../assets/staticLayout.jpg);
+    height: 250px;
+    width: 420px;
+    border: 1px solid var(--lightblue);
+}
+
+#staticLayout:hover {
+    background-image: url(../assets/staticThumbnail.png);
+    height: 250px;
+    width: 420px;
+
+}
+
+#cssCreature {
+    background-image: url(../assets/CSSCreature.jpg);
+    height: 250px;
+    width: 420px;
+    border: 1px solid var(--lightblue);
+}
+
+#cssCreature:hover {
+    background-image: url(../assets/cssCreatureThumbnail.png);
+}
+
+#apiThumb {
+    background-image: url(../assets/APIProject.jpg);
+    height: 250px;
+    width: 420px;
+    border: 1px solid var(--lightblue)
+}
+
+#apiThumb:hover {
+    background-image: url(../assets/APIthumbnail.PNG);
+}

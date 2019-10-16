@@ -2,3 +2,16 @@ body {
     background: var(--black);
     font-family: var(--font-one)
 }
+
+h1 {
+    color: var(--lightblue);
+    text-align: center;
+}
+
+hr {
+    background-color: var(--lightblue);
+}
+
+img {
+    border: 1px solid var(--lightblue);
+}

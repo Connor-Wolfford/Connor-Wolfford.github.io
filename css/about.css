@@ -1,0 +1,10 @@
+.aboutMeText {
+    color: var(--lightblue);
+    text-align: left;
+}
+
+.aboutFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
